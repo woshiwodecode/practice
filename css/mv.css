@@ -281,8 +281,12 @@ body {
   background-color: #ccc;
 }
 .page ul {
-  margin-left: 456px;
+  padding-left: 368px;
   margin-bottom: 60px ;
+  box-sizing: border-box;
+}
+.page ul li {
+  margin-right: 10px;
 }
 .page ul li a {
   display: block;
