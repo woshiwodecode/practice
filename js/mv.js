@@ -123,3 +123,9 @@ $('.part_top').on('click','span',function() {
 $('.part_right a').click(function () {
     $(this).addClass('p_r_color').siblings().removeClass('p_r_color');
 })
+
+
+//mv点击跳转视频
+$('.cover_img').click(function () {
+    location.assign('https://thisliuyang.github.io/qqmusic2/index.html')
+})
