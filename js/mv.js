@@ -129,3 +129,5 @@ $('.part_right a').click(function () {
 $('.cover_img').click(function () {
     location.assign('https://thisliuyang.github.io/qqmusic2/index.html')
 })
+
+// 202010609
