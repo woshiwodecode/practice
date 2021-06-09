@@ -130,4 +130,4 @@ $('.cover_img').click(function () {
     location.assign('https://thisliuyang.github.io/qqmusic2/index.html')
 })
 
-// 202010609
+// 202010609 review分支
